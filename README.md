@@ -26,21 +26,6 @@
 Please see the [Code of Conduct](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/CODE_OF_CONDUCT.md) before contributing.
 Check the [Wiki](https://github.com/ucalyptus/Spotify-Recommendation-Engine/wiki) for instructions.
 
-## 🌟 Contributors 
 
-Thanks to these wonderful people ✨✨:
 
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/ucalyptus/Spotify-Recommendation-Engine/graphs/contributors">
-  				<img src="https://contrib.rocks/image?repo=ucalyptus/Spotify-Recommendation-Engine" />
-			</a>
-		</td>
-	</tr>
-</table>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ucalyptus/Spotify-Recommendation-Engine&type=Timeline)](https://star-history.com/#ucalyptus/Spotify-Recommendation-Engine&Timeline)
 
