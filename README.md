@@ -1,4 +1,6 @@
-<h1 align="center">Spotify Recommendation Engine Radio Tatuape FM</h1>
+<h1 align="center">Radio Tatuape FM</h1>
+ <p align="center">Spotify Recommendation Engine 
+	 </p>
 <p align="center">
  <img src="https://ucalyptus.github.io/Spotify-Recommendation-Engine/spotify.gif" width=400>
 </p>
