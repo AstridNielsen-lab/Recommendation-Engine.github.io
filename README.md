@@ -6,7 +6,7 @@
 </p>
 
 ## Recommender System:
-## [Notebook](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/Spotify_Recommendation_System_.ipynb) | [Playlist created using the notebook](https://open.spotify.com/playlist/4D8p3hVYwgngTmf1FHol0Y)
+## [Notebook](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/Spotify_Recommendation_System_.ipynb) | [Playlist created using the notebook](https://open.spotify.com/playlist/7bb3HwKjVw6rkwECHuk21O)
 
 
 
