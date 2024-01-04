@@ -1,3 +1,4 @@
+[![Social Banner](https://developer.spotify.com/images/spotify-for-developers-logo.svg#s4d-logo)](https://developer.spotify.com/)
 <h1 align="center">Radio Tatuape FM</h1>
  <p align="center">Spotify Recommendation Engine 
 	 </p>
@@ -15,3 +16,4 @@
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=mdid5sqr181mup08gb93hifm1&count=10)
+
