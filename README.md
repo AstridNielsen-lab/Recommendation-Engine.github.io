@@ -20,11 +20,7 @@
 ## Recommender System:
 ## [Notebook](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/Spotify_Recommendation_System_.ipynb) | [Playlist created using the notebook](https://open.spotify.com/playlist/4D8p3hVYwgngTmf1FHol0Y)
 
-# Engage in the [Discussions](https://github.com/ucalyptus/Spotify-Recommendation-Engine/discussions) for more questions.
 
-### Contributing
-Please see the [Code of Conduct](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/CODE_OF_CONDUCT.md) before contributing.
-Check the [Wiki](https://github.com/ucalyptus/Spotify-Recommendation-Engine/wiki) for instructions.
 
 
 
