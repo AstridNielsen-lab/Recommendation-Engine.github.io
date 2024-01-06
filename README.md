@@ -1,4 +1,4 @@
-[![Social Banner](https://developer.spotify.com/images/spotify-for-developers-logo.svg#s4d-logo)](https://developer.spotify.com/)
+[![Social Banner](https://developer.spotify.com/images/spotify-for-developers-logo.svg#s4d-logo)](https://astridnielsen-lab.github.io/appmusic.github.io/)
 <h1 align="center">Radio Tatuape FM</h1>
  <p align="center">Spotify Recommendation Engine 
 	 </p>
@@ -11,7 +11,7 @@
 </p>
 
 ## Recommender System:
-## [Notebook](https://github.com/ucalyptus/Spotify-Recommendation-Engine/blob/master/Spotify_Recommendation_System_.ipynb) | [Playlist created using the notebook](https://open.spotify.com/playlist/2s8wPjY7YEBIh9vBwTZhkq)
+## [Notebook](https://astridnielsen-lab.github.io/appmusic.github.io/) | [Playlist created using the notebook](https://open.spotify.com/playlist/2s8wPjY7YEBIh9vBwTZhkq)
 
 
 
